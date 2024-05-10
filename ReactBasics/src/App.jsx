@@ -1,9 +1,10 @@
+import NewFun from "./Sanzie"
 
 function App() {
   
 
   return (
-    <h1>SanZiee React with vite</h1>
+    <NewFun></NewFun>
   )
 }
 
